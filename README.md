@@ -4,6 +4,6 @@ Was done as part of  http://www.alta.asn.au/events/sharedtask2018/description.ht
 
 
 Used an ML Pipeline as follows: <br>
-  <\t>-> BOW vectorizer <br>
-  <\t>-> Tf-IDF Transformer<br>
-  <\t>-> Logistic Regression
+  -> BOW vectorizer <br>
+  -> Tf-IDF Transformer<br>
+  -> Logistic Regression
